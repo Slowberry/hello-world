@@ -1,2 +1,2 @@
 # hello-world
-This is an optional description.
+A description is optional, so...
